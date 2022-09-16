@@ -1,3 +1,4 @@
+#a program to play rock paper and scissor
 import random
 
 player1 = input("Select Rock, Paper, or Scissor :").lower()
@@ -14,3 +15,5 @@ elif player1 == player2:
     print("Tie")
 else:
     print("Player 1 Won")
+
+#checked

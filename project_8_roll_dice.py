@@ -21,3 +21,5 @@ while roll_again == "yes" or roll_again == "y":
     
     #asking user to roll the dice again. Any input other than yes or y will terminate the loop
     roll_again = input("Roll the Dices Again?") 
+
+#checked

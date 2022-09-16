@@ -1,3 +1,4 @@
+# a script to check the correct spelling of a word
 from spellchecker import SpellChecker
 corrector = SpellChecker()
 
@@ -7,3 +8,5 @@ if word in corrector:
 else:
     correct_word = corrector.correction(word)
     print("Correct Spelling is ", correct_word)
+
+#checked
